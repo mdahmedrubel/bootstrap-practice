@@ -1,0 +1,203 @@
+/* Responsive css code start of the template */ 
+@media only screen and (min-width: 992px) and (max-width:1024px){
+.box-content {
+    padding: 25px 25px;
+}
+
+.box-content h3 {
+    font-size: 30px;
+}
+
+.journey-content {
+    margin-top: 66px;
+}
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+.box-content {
+    padding: 25px 25px;
+}
+
+.box-content h3 {
+    font-size: 30px;
+}
+
+.journey-content {
+    margin-top: 66px;
+}
+
+.menu {
+    display: none;
+}
+
+.site-btn {
+    text-align: right;
+}
+
+.hero-left {
+    text-align: center;
+}
+
+.hero.right {
+    text-align: center !important;
+    display: block;
+}
+
+.hero.right img {
+    width: 80%;
+}
+
+.service-img img {
+    width: 44%;
+    margin-bottom: 40px;
+}
+
+.service-btn {
+    margin-top: -34px;
+}
+
+.counter-box {
+    margin-bottom: 50px;
+}
+
+.journey-img img {
+    width: 40%;
+}
+
+.journey-content h2 {
+    font-size: 26px;
+    line-height: 32px;
+}
+
+.pricing-title h2 {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+.client-section {
+    text-align: center;
+}
+
+.client-img img {
+    width: 50%;
+}
+
+.newsletter h2 {
+    font-size: 25px;
+}
+
+.footer-section {
+    text-align: center;
+}
+
+.footer-box logo {
+    margin: 10px 135px;
+}
+
+.footer-box {
+    margin-bottom: 0px;
+}
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 767px){
+
+
+.header-section {
+text-align: center;
+}
+
+.menu {
+    display: none;
+}
+
+.logo {
+    margin-bottom: 0px;
+}
+
+.hero-left {
+    text-align: center;
+}
+
+.hero-left h2 {
+    font-size: 26px;
+    line-height: 35px;
+}
+
+.hero.right img {
+    width: 70%;
+}
+
+.hero.right {
+    text-align: center;
+}
+
+.client-img img {
+    width: 70%;
+}
+
+.client-img {
+    text-align: center;
+}
+
+.site-form button {
+    margin-top: 20px;
+}
+
+.newsletter h2 {
+    font-size: 23px;
+    line-height: 28px;
+}
+
+.newsletter {
+    padding: 50px;
+}
+
+.class-box {
+    flex-direction: column;
+}
+
+.class-section {
+    text-align: center;
+}
+
+.class-title h2 {
+    font-size: 25px;
+}
+
+.journey-content h2 {
+    font-size: 26px;
+    line-height: 29px;
+}
+
+.pricing-title h2 {
+    font-size: 24px;
+}
+
+.footer-section {
+    text-align: center;
+}
+
+.footer-box {
+    margin-bottom: 0px;
+}
+
+.site-form button {
+    position: unset;
+}
+.counter-box {
+    margin-bottom: 40px;
+}
+
+.box-img img {
+    width: 100%;
+}
+.single-box {
+    margin-bottom: 30px;
+}
+
+
+
+}
+/* Responsive css code start of the template */ 
